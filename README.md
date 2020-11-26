@@ -1,2 +1,2 @@
 # MusicPlayer
-Dersiçin proje
+Ders için proje
